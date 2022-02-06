@@ -45,7 +45,7 @@
         "SESSION_NAME": {
             "description": "fill with the pyrogram String Session",
             "required": true,
-            "value": "BQCOseI35Vowpnui3F51Kspw401kLZDR_NcgNKklNbMoBw0sbD7kOGzLFYaYSjRU9vmUczL0nVrKfETgovDobwBzG7gShdwyT2KrxYfkYxKXK6-4m6iLhfXNCxGd3knokrcP6nFiIGMJzoSji30knqY_LWdhONHq6d87xd3yrw2YWSGerns5WhG1V0RftWwaPPga_79mMRoeXz9Vk2Dvob0K16K-xZecw4nWPfr5Iy_KN27TD181gnSygp3LVdaGF8-FK7nQ7JQsRQGu_hZM4WOK-0JoV4PYRNFTpu4NpxJWT0n_zxdLgK57sI16A40IKSkKNukDxV1VZft8mLZe8--_fS7xsQA"
+            "value": ""
         },
         "SUDO_USERS": {
             "description": "list of user ids to be added to sudo member list, or just fill with your id",
